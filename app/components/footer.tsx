@@ -12,7 +12,7 @@ export default function Footer() {
           <p>{"GitHub"}</p>
         </Link>
         <Link
-          href={"https://www.linkedin.com/in/gurlal-dhaliwal-bb828a2a9//"}
+          href={"https://www.linkedin.com/in/gurlal-dhaliwal/"}
           className="hover:underline flex items-center mr-4"
         >
           <GoArrowUpRight className="mr-0.5" />
